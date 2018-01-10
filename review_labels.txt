@@ -1,0 +1,9 @@
+wushuo, 1, positive
+wushuo, 2, positive
+wushuo, 3, negative
+wushuo, 4, neutral
+wushuo, 5, positive
+wushuo, 6, positive
+wushuo, 7, negative
+wushuo, 8, positive
+wushuo, 9, positive
